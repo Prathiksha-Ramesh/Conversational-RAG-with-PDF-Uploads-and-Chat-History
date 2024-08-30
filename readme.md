@@ -2,7 +2,7 @@
 
 This project is a Streamlit application that leverages LangChain and Groq API to enable a conversational retrieval-augmented generation (RAG) system. The application allows users to upload PDF documents and interact with them using a conversational interface that maintains chat history. The project integrates multiple components, including Chroma for vector storage, and Hugging Face embeddings, to provide an efficient document querying experience.
 
-![Screenshot of the Interface](Screenshot_2024-08-29_123524.png)
+![Screenshot of the Interface](Screenshot%202024-08-29%20123524.png)
 
 ## Project Structure
 ```
